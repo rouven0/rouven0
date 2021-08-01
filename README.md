@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**therealr5/therealr5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am R5, some random german student, linux enthusiast and mostly a supporter of free and open source software 👀
 
-Here are some ideas to get you started:
+## My projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+╭-----------------------------------------------------------------------------------------------------------------------------╮\
+ &nbsp;  &nbsp;**[DCC-Controller](https://github.com/therealr5/dcc-controller-android-app)**: A small Android App to control digital model trains with the _DCC Potocol_
+
+ &nbsp;  &nbsp;**[Truck Simularor](https://github.com/therealr5/TruckSimulatorBot)**: A discord bot using the new discord interactions.
+╰-----------------------------------------------------------------------------------------------------------------------------╯
+
+
+![therealR5's GitHub stats](https://github-readme-stats.vercel.app/api?username=therealr5&show_icons=true&theme=dracula)
