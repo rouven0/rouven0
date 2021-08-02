@@ -5,9 +5,9 @@ I am R5, some random german student, linux enthusiast and mostly a supporter of 
 ## My projects
 
 ╭-----------------------------------------------------------------------------------------------------------------------------╮\
- &nbsp;  &nbsp;**[DCC-Controller](https://github.com/therealr5/dcc-controller-android-app)**: A small Android App to control digital model trains with the _DCC Potocol_
+ &nbsp;  &nbsp;**[DCC-Controller](https://github.com/therealr5/dcc-controller-android-app)**: A small Android App to control digital model trains with the _DCC Protocol_
 
- &nbsp;  &nbsp;**[Truck Simularor](https://github.com/therealr5/TruckSimulatorBot)**: A discord bot using the new discord interactions.
+ &nbsp;  &nbsp;**[Truck Simularor](https://github.com/therealr5/TruckSimulatorBot)**: A discord bot using the new discord interactions.\
 ╰-----------------------------------------------------------------------------------------------------------------------------╯
 
 
