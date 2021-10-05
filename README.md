@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am R5, some random german student, linux enthusiast and mostly a supporter of free and open source software 👀
+I am Rouven, some random german student, linux enthusiast and mostly a supporter of free and open source software 👀
 
 ## My projects
 
